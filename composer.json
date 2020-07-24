@@ -16,6 +16,13 @@
             "Avant\\LaravelNovaTableField\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Avant\\LaravelNovaTableField\\FieldServiceProvider"
+            ]
+        }
+    },
     "config": {
         "sort-packages": true
     },
