@@ -3,9 +3,7 @@
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
-        "nova",
-        "table",
-        "field"
+        "nova"
     ],
     "license": "MIT",
     "require": {
@@ -26,5 +24,6 @@
     "config": {
         "sort-packages": true
     },
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
